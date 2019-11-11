@@ -70,7 +70,7 @@ alias gl='git log --oneline --decorate'
 alias gslog="git log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
 
 
-# Ruby 
+# Ruby
 #on
 #Rails
 
@@ -102,3 +102,22 @@ alias rrdm='rake db:migrate'
 alias rrdr='rake db:reset'
 alias rrds='rake db:seed'
 alias rrdsu='rake db:setup'
+
+
+#######################
+# NPM ALIASES
+######################
+# Npm alias
+alias np='npm'
+
+# Npm install alias
+alias npi='npm install'
+alias npis='npm install --save'
+alias npig='npm install -g'
+
+# Npm update
+alias npu='npm update'
+alias npug='npm update -g'
+
+# Npm search
+alias nps='npm search'
