@@ -121,3 +121,13 @@ alias npug='npm update -g'
 
 # Npm search
 alias nps='npm search'
+
+########################
+## DOCKER
+########################
+alias dl="docker ps -l -q"
+alias dps="docker ps"
+alias di="docker images"
+alias dkd="docker run -d -P"
+alias dki="docker run -i -t -P"
+alias dex="docker exec -i -t"
