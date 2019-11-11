@@ -70,4 +70,35 @@ alias gl='git log --oneline --decorate'
 alias gslog="git log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
 
 
-#Ruby on Rails 
+# Ruby 
+#on
+#Rails
+
+# Ruby on Rails generators
+alias rrg='rails generate'
+alias rrga='rails g assets'
+alias rrgc='rails g controller'
+alias rrgd='rails g decorator'
+alias rrgg='rails g generator'
+alias rrgh='rails g helper'
+alias rrgma='rails g mailer'
+alias rrgmi='rails g migration'
+alias rrgmo='rails g model'
+alias rrgt='rails g task'
+
+# Ruby on Rails commands
+alias rra='rails application'
+alias rrc='rails console'
+alias rrd='rails destroy'
+alias rrn='rails new'
+alias rrpr='rails profiler'
+alias rrpl='rails plugin'
+alias rrs='rails server'
+
+# Ruby on Rails database tasks
+alias rrdc='rake db:create'
+alias rrdd='rake db:drop'
+alias rrdm='rake db:migrate'
+alias rrdr='rake db:reset'
+alias rrds='rake db:seed'
+alias rrdsu='rake db:setup'
