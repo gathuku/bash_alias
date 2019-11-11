@@ -1,5 +1,13 @@
 ## Amazing Bash aliases.
-A list of aliases of commonly used bash alias
+A list of aliases of commonly used bash commands
+
+### Current supported
+- Git
+- Ruby on Rails
+- NPM
+- Docker
+
+Feel free to add more. inside 'bash_aliases' file.
 
 ## Installation
 ### Clone
