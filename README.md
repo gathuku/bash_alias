@@ -7,7 +7,7 @@ A list of aliases of commonly used bash commands
 - NPM
 - Docker
 
-Feel free to add more. inside 'bash_aliases' file.
+Feel free to add more. inside 'bash_aliases' file. :blush:
 
 ## Installation
 ### Clone
