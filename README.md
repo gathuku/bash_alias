@@ -1,13 +1,21 @@
 ## Amazing Bash aliases.
-A list of aliases of commonly used bash commands
+A list of aliases of commonly used bash commands and Functions
 
-### Current supported
+### Current supported Alias
 - Git
 - Ruby on Rails
 - NPM
 - Docker
 
-Feel free to add more. inside 'bash_aliases' file. :blush:
+## Current support functions
+- Kill processes
+- System uptime
+- Tar and Compress
+- Make DIR and CD to it.
+- Make PR GitHub
+- Fetch PR Github
+
+Feel free to add more. inside `bash_aliases` and `bash_functions.sh` files. :blush:
 
 ## Installation
 ### Clone
