@@ -20,7 +20,7 @@ Enable bash aliases in terminal by running the command:
 ```
 source ~/.aliases/bash_aliases
 ```
-Enable bash functions in termina by running the command:
+Enable bash functions in terminal by running the command:
 ```
 source ~/.aliases/bash_functions.sh
 ```
