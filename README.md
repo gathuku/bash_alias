@@ -7,7 +7,7 @@ A list of aliases of commonly used bash commands and Functions
 - NPM
 - Docker
 
-## Current support functions
+### Current support functions
 - Kill processes
 - System uptime
 - Tar and Compress
