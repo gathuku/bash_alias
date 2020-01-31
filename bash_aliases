@@ -69,6 +69,9 @@ alias gd='git diff --color-words'
 alias gl='git log --oneline --decorate'
 alias gslog="git log --graph --abbrev-commit --decorate --date=relative --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all"
 
+# Git commit no white space
+alias ganw="git diff -U0 -w --no-color | git apply --cached --ignore-whitespace --unidiff-zero"
+
 
 # Ruby
 #on
