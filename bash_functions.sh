@@ -40,7 +40,7 @@ mkcd() { mkdir -p $1; cd $1 }
 # Creates a pull request on GitHub for the currently checked out branch
 #####################
 function pr () {
-  if ["$1" == ""]
+  if [ -z "${1}" ]
   then
       echo "Please provide the name of the branch to create a pull request against."
   else
